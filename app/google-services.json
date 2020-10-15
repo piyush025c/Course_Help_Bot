@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251159192797",
+    "firebase_url": "https://course-help-bot.firebaseio.com",
+    "project_id": "course-help-bot",
+    "storage_bucket": "course-help-bot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251159192797:android:6aeca0edb085be5afa6734",
+        "android_client_info": {
+          "package_name": "com.piyush025.coursehelpbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251159192797-gua6snhbf7t4mnkv5m25tdibe40382k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.piyush025.coursehelpbot",
+            "certificate_hash": "2f31c3c43f36a7d1c31f4361fd6400ac787b763c"
+          }
+        },
+        {
+          "client_id": "251159192797-l74c7v9q56sao06ncop71tns9lisruss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZDyxFwl9p_NwmRyNPfZ8jz-qLEUxOJTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251159192797-l74c7v9q56sao06ncop71tns9lisruss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
