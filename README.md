@@ -11,7 +11,7 @@ It can also be made to respond to queries related to recent announcements.
 
 ![Image_2](https://user-images.githubusercontent.com/32017030/96234432-0f984000-0fb7-11eb-8d55-b82d95a95561.jpg)
 
-[Click here to get APK file of this app](https://drive.google.com/file/d/1O2jHOiCLC_6Up84BmDkRI-FW8Jvz6iWy/view?usp=sharing "APK File")
+[Click here to get APK file of this app](https://drive.google.com/file/d/1O65oIbGQUN6TfT_74TN8kwDfuzMLZoIJ/view?usp=sharing "APK File")
 
 ##### We have also tried to built a web platform to handle students query. It sets up a chat session where students can put their doubts.
 
